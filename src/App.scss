@@ -1,0 +1,14 @@
+
+.mainbox::-webkit-scrollbar-track {
+  border: 1px solid #000;
+  padding: 2px 0;
+  background-color: #404040;
+}
+span {
+  font-weight:700;
+}
+.MuiPagination-root {
+  display: flex;
+  justify-content:center;
+  margin-top: 15px;
+}
